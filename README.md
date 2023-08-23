@@ -27,21 +27,6 @@ In this project, I have performed the following tasks:
    - Evaluated the model's performance on both training and testing data.
    - Generated predictions for the closing prices of both training and testing data and inversely transformed them to the original scale.
    - Visualized the actual vs. predicted closing prices over time using Matplotlib.
-
-### Prerequisites:
-To reproduce and run this project, make sure you have the following dependencies installed:
-- Python (>=3.6)
-- PyTorch (>=1.6)
-- pandas
-- numpy
-- matplotlib
-- plotly
-- scikit-learn
-
-### Usage:
-1. Clone this repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Place the historical Tesla stock price data file (`TSLA.csv`) in the repository's root directory.
 4. Open and run the provided Jupyter Notebook or Python script to execute the project.
 
 Feel free to explore, modify, and build upon this project to further enhance your understanding of time series forecasting and deep learning techniques. If you have any questions or feedback, please don't hesitate to reach out.
