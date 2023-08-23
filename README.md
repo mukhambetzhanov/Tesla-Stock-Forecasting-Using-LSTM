@@ -1,5 +1,5 @@
 # Tesla-Stock-Forecasting-Using-LSTM
- ## Tesla Stock Price Forecasting with Long Short-Term Memory (LSTM) Neural Network
+## Tesla Stock Price Forecasting with Long Short-Term Memory (LSTM) Neural Network
 
 Welcome to my GitHub repository for the project "Tesla Stock Price Forecasting with Long Short-Term Memory (LSTM) Neural Network." In this project, I have developed an LSTM-based neural network to predict the future closing prices of Tesla (TSLA) stock. The primary goal of this project is to showcase the implementation of a time series forecasting model using PyTorch and deep learning techniques.
 
@@ -27,8 +27,3 @@ In this project, I have performed the following tasks:
    - Evaluated the model's performance on both training and testing data.
    - Generated predictions for the closing prices of both training and testing data and inversely transformed them to the original scale.
    - Visualized the actual vs. predicted closing prices over time using Matplotlib.
-4. Open and run the provided Jupyter Notebook or Python script to execute the project.
-
-Feel free to explore, modify, and build upon this project to further enhance your understanding of time series forecasting and deep learning techniques. If you have any questions or feedback, please don't hesitate to reach out.
-
-Happy forecasting!
